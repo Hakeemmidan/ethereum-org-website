@@ -41,7 +41,7 @@ The purpose of Ether, the cryptocurrency, is to allow for the existence of a mar
 
 Any participant who broadcasts a transaction request must also offer some amount of ether to the network, as a bounty to be awarded to whoever eventually does the work of verifying the transaction, executing it, committing it to the blockchain, and broadcasting it to the network.
 
-The amount of ether paid is a function of the length of the computation. This also prevents malicious participants from intentionally clogging the network by requesting execution of infinite loops or resource-intense scripts, as these actors will be continually charged.
+The amount of ether paid is a function of the length of the computation. This also prevents malicious participants from intentionally clogging the network by requesting execution of infinite loops or resource-intensive scripts, as these actors will be continually charged.
 
 ## What are dapps? {#what-are-dapps}
 
